@@ -4,11 +4,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 channel-id="Cartoonito" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="2" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2022/05/cartoonito_logo_freelogovectors.net_.png" group-title="Infantiles", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 channel-id="Venevsión" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="3" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png" group-title="Venezuela", Veneviión
+#EXTINF:-1 channel-id="Venevisión" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="3" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png" group-title="Venezuela", Venevisión
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
 
 #EXTINF:-1 channel-id="Canal i" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="4" tvg-logo="https://www.m3u.cl/logo/519_Canal_i.png" group-title="Venezuela", Canal i
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
 #EXTINF:-1 channel-id="Televen" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="Venezuela", Televen
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
