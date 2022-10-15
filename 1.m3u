@@ -4,6 +4,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 channel-id="Cartoonito" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="2" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2022/05/cartoonito_logo_freelogovectors.net_.png" group-title="Infantiles", Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
+#EXTINF:-1 channel-id="Bob Esponja" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="2" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Infantiles", Bob Esponja
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
 #EXTINF:-1 channel-id="Nick Jr" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" group-title="Infantiles", Nick Jr
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
