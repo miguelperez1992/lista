@@ -18,3 +18,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 
 #EXTINF:-1 channel-id="Fox Sports 3" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="7" tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" group-title="Deportes", Fox Sports 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1 channel-id="TNT Sports" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="8" tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" group-title="Deportes", TNT Sports
+https://edge-live17-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
