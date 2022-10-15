@@ -1,11 +1,394 @@
-#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://i.pinimg.com/originals/e9/ef/1f/e9ef1f221c1bdd270c431cacbb0d80a1.jpg" group-title="Kids",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+<?xml version="1.0" encoding="UTF-8"?>
 
-#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2022/05/cartoonito_logo_freelogovectors.net_.png" group-title="Kids", Cartoonito
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+-<site site="horizon.tv" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.0.0.23 -- Jan van Straaten">
 
-#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="http://www.mercadonegro.pe/wp-content/uploads/2018/03/Isotipo-directv.jpg" group-title="Kids", Directv Sports
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="Kids", TLC
-http://todoen1.xyz:8080/TV/XYE8UjLP3abf/68148
+-<channels>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Caracol" site_id="PR/eng_lgi-pr-prod-master:69023927" update="i">Caracol</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="AZ Mundo" site_id="PR/eng_lgi-pr-prod-master:69031212" update="i">AZ Mundo</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Pasiones" site_id="PR/eng_lgi-pr-prod-master:69037592" update="i">Pasiones</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Univision TL Novelas" site_id="PR/eng_lgi-pr-prod-master:314530379" update="i">Univision TL Novelas</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Azteca Corazon" site_id="PR/eng_lgi-pr-prod-master:69034688" update="i">Azteca Corazon</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TV Espanola" site_id="PR/eng_lgi-pr-prod-master:960177046" update="i">TV Espanola</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="A3Cine" site_id="PR/eng_lgi-pr-prod-master:1473777738" update="i">A3Cine</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Cine Latino" site_id="PR/eng_lgi-pr-prod-master:69046957" update="i">Cine Latino</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TV Dominicana" site_id="PR/eng_lgi-pr-prod-master:69030284" update="i">TV Dominicana</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Ultra Familia" site_id="PR/eng_lgi-pr-prod-master:1838653608" update="i">Ultra Familia</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery TurboLatam" site_id="PR/eng_lgi-pr-prod-master:69026916" update="i">Discovery TurboLatam</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Antena 3 Intl" site_id="PR/eng_lgi-pr-prod-master:1136163551" update="i">Antena 3 Intl</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="WKAQ TV Telemundo" site_id="PR/eng_lgi-pr-prod-master:69025378" update="i">WKAQ TV Telemundo</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Wapa" site_id="PR/eng_lgi-pr-prod-master:69025363" update="i">Wapa</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="A3series" site_id="PR/eng_lgi-pr-prod-master:1270959130" update="i">A3series</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="WIPR TV" site_id="PR/eng_lgi-pr-prod-master:69042646" update="i">WIPR TV</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="WSTE TeleIsla" site_id="PR/eng_lgi-pr-prod-master:69033126" update="i">WSTE TeleIsla</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Univision" site_id="PR/eng_lgi-pr-prod-master:69025491" update="i">Univision</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Mega TV" site_id="PR/eng_lgi-pr-prod-master:1418992359" update="i">Mega TV</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="NBC PR" site_id="PR/eng_lgi-pr-prod-master:1310092995" update="i">NBC PR</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="MSNBC" site_id="PR/eng_lgi-pr-prod-master:69033981" update="i">MSNBC</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="CNBC" site_id="PR/eng_lgi-pr-prod-master:69030991" update="i">CNBC</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Reelz Channel" site_id="PR/eng_lgi-pr-prod-master:69037829" update="i">Reelz Channel</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="USA Network" site_id="PR/eng_lgi-pr-prod-master:69030731" update="i">USA Network</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Bein Sports" site_id="PR/eng_lgi-pr-prod-master:317907415" update="i">Bein Sports</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Bein Sports Español" site_id="PR/eng_lgi-pr-prod-master:305598451" update="i">Bein Sports Español</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Golf Channel" site_id="PR/eng_lgi-pr-prod-master:69030712" update="i">Golf Channel</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Wapa 2" site_id="PR/eng_lgi-pr-prod-master:69030876" update="i">Wapa 2</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Syfy" site_id="PR/eng_lgi-pr-prod-master:69030967" update="i">Syfy</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="E Entertainment" site_id="PR/eng_lgi-pr-prod-master:69031958" update="i">E Entertainment</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Bravo" site_id="PR/eng_lgi-pr-prod-master:69030779" update="i">Bravo</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Food Network" site_id="PR/eng_lgi-pr-prod-master:69028270" update="i">Food Network</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="HGTV" site_id="PR/eng_lgi-pr-prod-master:69027868" update="i">HGTV</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Cooking Channel" site_id="PR/eng_lgi-pr-prod-master:69037729" update="i">Cooking Channel</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="DIY" site_id="PR/eng_lgi-pr-prod-master:69037516" update="i">DIY</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Destination America" site_id="PR/eng_lgi-pr-prod-master:69031743" update="i">Destination America</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Travel Channel" site_id="PR/eng_lgi-pr-prod-master:69031232" update="i">Travel Channel</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery USA" site_id="PR/eng_lgi-pr-prod-master:69030687" update="i">Discovery USA</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Animal Planet" site_id="PR/eng_lgi-pr-prod-master:69030685" update="i">Animal Planet</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TLC USA" site_id="PR/eng_lgi-pr-prod-master:69030684" update="i">TLC USA</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Hallmark Channel" site_id="PR/eng_lgi-pr-prod-master:69034809" update="i">Hallmark Channel</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Hallmark Drama" site_id="PR/eng_lgi-pr-prod-master:5227902184" update="i">Hallmark Drama</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="NBC Sports Network" site_id="PR/eng_lgi-pr-prod-master:69029442" update="i">NBC Sports Network</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Kids" site_id="PR/eng_lgi-pr-prod-master:69047730" update="i">Discovery Kids</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Oxygen" site_id="PR/eng_lgi-pr-prod-master:69039042" update="i">Oxygen</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Family" site_id="PR/eng_lgi-pr-prod-master:69037619" update="i">Discovery Family</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Hallmark Mysteries" site_id="PR/eng_lgi-pr-prod-master:69031379" update="i">Hallmark Mysteries</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Canal 85" site_id="PR/eng_lgi-pr-prod-master:69047694" update="i">Canal 85</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Universo" site_id="PR/eng_lgi-pr-prod-master:1122172131" update="i">Universo</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Life" site_id="PR/eng_lgi-pr-prod-master:1508210850" update="i">Discovery Life</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="American Heroes" site_id="PR/eng_lgi-pr-prod-master:334443188" update="i">American Heroes</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="ID Discovery" site_id="PR/eng_lgi-pr-prod-master:69034520" update="i">ID Discovery</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Science" site_id="PR/eng_lgi-pr-prod-master:69030686" update="i">Discovery Science</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Motortrend" site_id="PR/eng_lgi-pr-prod-master:69021678" update="i">Motortrend</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Home And Health Latam" site_id="PR/eng_lgi-pr-prod-master:320905745" update="i">Discovery Home And Health Latam</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Latam" site_id="PR/eng_lgi-pr-prod-master:1204592616" update="i">Discovery Latam</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TLC ESPANOL" site_id="PR/eng_lgi-pr-prod-master:4308148905" update="i">TLC ESPANOL</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Investigation Discovery Latam" site_id="PR/eng_lgi-pr-prod-master:320915524" update="i">Investigation Discovery Latam</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Animal Planet Latam" site_id="PR/eng_lgi-pr-prod-master:942732992" update="i">Animal Planet Latam</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="LAS" site_id="PR/eng_lgi-pr-prod-master:6832813340" update="i">LAS</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Televisa y Univision Deportes Network" site_id="PR/eng_lgi-pr-prod-master:287899085" update="i">Televisa y Univision Deportes Network</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Disney Junior" site_id="CL/spa_lgi-cl-prod-master:1489286137" update="i">Disney Junior</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Az Cinema" site_id="CL/spa_lgi-cl-prod-master:1816257783" update="i">Az Cinema</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TVE" site_id="CL/spa_lgi-cl-prod-master:69047760" update="i">TVE</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TVN HD" site_id="CL/spa_lgi-cl-prod-master:69039813" update="i">TVN HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Mega HD" site_id="CL/spa_lgi-cl-prod-master:1053663072" update="i">Mega HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Chilevisión HD" site_id="CL/spa_lgi-cl-prod-master:927735547" update="i">Chilevisión HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Nick Jr" site_id="CL/spa_lgi-cl-prod-master:69031864" update="i">Nick Jr</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Canal 13 HD" site_id="CL/spa_lgi-cl-prod-master:69043044" update="i">Canal 13 HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="24 Horas HD" site_id="CL/spa_lgi-cl-prod-master:3272215135" update="i">24 Horas HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="CNN Chile HD" site_id="CL/spa_lgi-cl-prod-master:4505665992" update="i">CNN Chile HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Warner HD" site_id="CL/spa_lgi-cl-prod-master:4861372172" update="i">Warner HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="AE Mundo HD" site_id="CL/spa_lgi-cl-prod-master:1895270707" update="i">AE Mundo HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="AXN HD" site_id="CL/spa_lgi-cl-prod-master:5546842456" update="i">AXN HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Paramount HD" site_id="CL/spa_lgi-cl-prod-master:958936465" update="i">Paramount HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Sony HD" site_id="CL/spa_lgi-cl-prod-master:5546828848" update="i">Sony HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TNT Series HD" site_id="CL/spa_lgi-cl-prod-master:1419842892" update="i">TNT Series HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="HBO HD" site_id="CL/spa_lgi-cl-prod-master:69046965" update="i">HBO HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TNT HD" site_id="CL/spa_lgi-cl-prod-master:4160409402" update="i">TNT HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Space HD" site_id="CL/spa_lgi-cl-prod-master:1419817466" update="i">Space HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TBS HD" site_id="CL/spa_lgi-cl-prod-master:3272246018" update="i">TBS HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Golden HD" site_id="CL/spa_lgi-cl-prod-master:69039398" update="i">Golden HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Hbo Family HD" site_id="CL/spa_lgi-cl-prod-master:441697453" update="i">Hbo Family HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="HBO Xtreme" site_id="CL/spa_lgi-cl-prod-master:444082240" update="i">HBO Xtreme</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Series" site_id="CL/spa_lgi-cl-prod-master:69031722" update="i">Fox Series</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Movies HD" site_id="CL/spa_lgi-cl-prod-master:69043646" update="i">Fox Movies HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Family HD" site_id="CL/spa_lgi-cl-prod-master:648906382" update="i">Fox Family HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Action HD" site_id="CL/spa_lgi-cl-prod-master:69043992" update="i">Fox Action HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="ESPN HD" site_id="CL/spa_lgi-cl-prod-master:1818813108" update="i">ESPN HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="ESPN 2" site_id="CL/spa_lgi-cl-prod-master:3141994412" update="i">ESPN 2</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="ESPN 3" site_id="CL/spa_lgi-cl-prod-master:69045542" update="i">ESPN 3</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="ESPN " site_id="CL/spa_lgi-cl-prod-master:69034756" update="i">ESPN </channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TyC Sports HD" site_id="CL/spa_lgi-cl-prod-master:1423005451" update="i">TyC Sports HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Teletrak Tv HD" site_id="CL/spa_lgi-cl-prod-master:1419831644" update="i">Teletrak Tv HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Sports 1 HD" site_id="CL/spa_lgi-cl-prod-master:1489286139" update="i">Fox Sports 1 HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Sports 2 HD" site_id="CL/spa_lgi-cl-prod-master:1134869025" update="i">Fox Sports 2 HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Sports 3 HD" site_id="CL/spa_lgi-cl-prod-master:3484557459" update="i">Fox Sports 3 HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="CDF HD" site_id="CL/spa_lgi-cl-prod-master:69039833" update="i">CDF HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Nick Jr HD" site_id="CL/spa_lgi-cl-prod-master:3272245449" update="i">Nick Jr HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="NatGeo Kids HD" site_id="CL/spa_lgi-cl-prod-master:5397722892" update="i">NatGeo Kids HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Kids HD" site_id="CL/spa_lgi-cl-prod-master:4841233446" update="i">Discovery Kids HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Disney Channel HD" site_id="CL/spa_lgi-cl-prod-master:6339169506" update="i">Disney Channel HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Cartoon Network HD" site_id="CL/spa_lgi-cl-prod-master:1612351388" update="i">Cartoon Network HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Nickelodeon HD" site_id="CL/spa_lgi-cl-prod-master:3622046778" update="i">Nickelodeon HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Boomerang HD" site_id="CL/spa_lgi-cl-prod-master:4505658347" update="i">Boomerang HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="13C HD" site_id="CL/spa_lgi-cl-prod-master:1653044099" update="i">13C HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="History Channel HD" site_id="CL/spa_lgi-cl-prod-master:69038884" update="i">History Channel HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="History 2 HD" site_id="CL/spa_lgi-cl-prod-master:1420021070" update="i">History 2 HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Animal Planet" site_id="CL/spa_lgi-cl-prod-master:942732992" update="i">Animal Planet</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Channel HD" site_id="CL/spa_lgi-cl-prod-master:6412956600" update="i">Discovery Channel HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Theater HD" site_id="CL/spa_lgi-cl-prod-master:69034107" update="i">Discovery Theater HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Home Health HD" site_id="CL/spa_lgi-cl-prod-master:1725412410" update="i">Discovery Home Health HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery TLC HD" site_id="CL/spa_lgi-cl-prod-master:4308148905" update="i">Discovery TLC HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery World HD" site_id="CL/spa_lgi-cl-prod-master:69038907" update="i">Discovery World HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Trutv HD" site_id="CL/spa_lgi-cl-prod-master:69038903" update="i">Trutv HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="ID Investigation Discovery" site_id="CL/spa_lgi-cl-prod-master:6960882451" update="i">ID Investigation Discovery</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Comedy Central HD" site_id="CL/spa_lgi-cl-prod-master:952820506" update="i">Comedy Central HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="E Entertainment" site_id="CL/spa_lgi-cl-prod-master:7669880672" update="i">E Entertainment</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Lifetime HD" site_id="CL/spa_lgi-cl-prod-master:1420057906" update="i">Lifetime HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="MTV HD" site_id="CL/spa_lgi-cl-prod-master:3142060765" update="i">MTV HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="MTV Live HD" site_id="CL/spa_lgi-cl-prod-master:69039535" update="i">MTV Live HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="VH1 HD" site_id="CL/spa_lgi-cl-prod-master:1442054439" update="i">VH1 HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Telefé HD" site_id="CL/spa_lgi-cl-prod-master:1420934206" update="i">Telefé HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Az Clic HD" site_id="CL/spa_lgi-cl-prod-master:1416384754" update="i">Az Clic HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Az Corazón HD" site_id="CL/spa_lgi-cl-prod-master:1416384756" update="i">Az Corazón HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Az Mundo HD" site_id="CL/spa_lgi-cl-prod-master:621158183" update="i">Az Mundo HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Canal de las Estrellas HD" site_id="CL/spa_lgi-cl-prod-master:296204359" update="i">Canal de las Estrellas HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Star TVE HD" site_id="CL/spa_lgi-cl-prod-master:3272249009" update="i">Star TVE HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Antena 3 HD" site_id="CL/spa_lgi-cl-prod-master:1136163551" update="i">Antena 3 HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="HBO Mundi" site_id="CL/spa_lgi-cl-prod-master:69037700" update="i">HBO Mundi</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Playboy" site_id="CL/spa_lgi-cl-prod-master:69039814" update="i">Playboy</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Canal TV Senado" site_id="CL/spa_lgi-cl-prod-master:69021976" update="i">Canal TV Senado</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Canal Diputados" site_id="CL/spa_lgi-cl-prod-master:69039812" update="i">Canal Diputados</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Telecanal" site_id="CL/spa_lgi-cl-prod-master:69039817" update="i">Telecanal</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TV HD" site_id="CL/spa_lgi-cl-prod-master:7302148055" update="i">TV HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="La Red HD" site_id="CL/spa_lgi-cl-prod-master:1381733092" update="i">La Red HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Cinemax" site_id="CL/spa_lgi-cl-prod-master:1506873534" update="i">Cinemax</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TBS SD" site_id="CL/spa_lgi-cl-prod-master:69043497" update="i">TBS SD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="ISat" site_id="CL/spa_lgi-cl-prod-master:69034104" update="i">ISat</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TCM" site_id="CL/spa_lgi-cl-prod-master:69033612" update="i">TCM</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Golden Edge" site_id="CL/spa_lgi-cl-prod-master:69046811" update="i">Golden Edge</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="HBO 2" site_id="CL/spa_lgi-cl-prod-master:69045385" update="i">HBO 2</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Hbo Signature" site_id="CL/spa_lgi-cl-prod-master:69024037" update="i">Hbo Signature</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="HBO Plus" site_id="CL/spa_lgi-cl-prod-master:69046963" update="i">HBO Plus</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Mega Plus HD" site_id="CL/spa_lgi-cl-prod-master:6754125439" update="i">Mega Plus HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Science HD" site_id="CL/spa_lgi-cl-prod-master:6567701864" update="i">Discovery Science HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Comedy" site_id="CL/spa_lgi-cl-prod-master:1251360445" update="i">Fox Comedy</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Cinema" site_id="CL/spa_lgi-cl-prod-master:69039971" update="i">Fox Cinema</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Fox Classics" site_id="CL/spa_lgi-cl-prod-master:941646796" update="i">Fox Classics</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Cocina Viva HD" site_id="CL/spa_lgi-cl-prod-master:6754122728" update="i">Cocina Viva HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="CDF" site_id="CL/spa_lgi-cl-prod-master:69039831" update="i">CDF</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Turbo" site_id="CL/spa_lgi-cl-prod-master:69026916" update="i">Discovery Turbo</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="CDF Premium" site_id="CL/spa_lgi-cl-prod-master:69039832" update="i">CDF Premium</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="A3Series HD" site_id="CL/spa_lgi-cl-prod-master:1270959130" update="i">A3Series HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="BBC World News HD" site_id="CL/spa_lgi-cl-prod-master:69045386" update="i">BBC World News HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Cinemax HD" site_id="CL/spa_lgi-cl-prod-master:1907509880" update="i">Cinemax HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Kids" site_id="CL/spa_lgi-cl-prod-master:3930373124" update="i">Discovery Kids</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Disney Channel" site_id="CL/spa_lgi-cl-prod-master:69039829" update="i">Disney Channel</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Disney XD" site_id="CL/spa_lgi-cl-prod-master:69031329" update="i">Disney XD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Tooncast" site_id="CL/spa_lgi-cl-prod-master:69033899" update="i">Tooncast</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="A3Cine HD" site_id="CL/spa_lgi-cl-prod-master:4958461558" update="i">A3Cine HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="ETC TV" site_id="CL/spa_lgi-cl-prod-master:69039815" update="i">ETC TV</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Science" site_id="CL/spa_lgi-cl-prod-master:69026919" update="i">Discovery Science</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery Civilization" site_id="CL/spa_lgi-cl-prod-master:69026918" update="i">Discovery Civilization</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="EWTN" site_id="CL/spa_lgi-cl-prod-master:69047733" update="i">EWTN</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TNE" site_id="CL/spa_lgi-cl-prod-master:69039850" update="i">TNE</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Discovery TLC" site_id="CL/spa_lgi-cl-prod-master:69049647" update="i">Discovery TLC</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Investigation Discovery" site_id="CL/spa_lgi-cl-prod-master:291843710" update="i">Investigation Discovery</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Glitz" site_id="CL/spa_lgi-cl-prod-master:69030184" update="i">Glitz</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Vive" site_id="CL/spa_lgi-cl-prod-master:69039819" update="i">Vive</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Mtv Hits" site_id="CL/spa_lgi-cl-prod-master:302050858" update="i">Mtv Hits</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Mtv Dance" site_id="CL/spa_lgi-cl-prod-master:1921617259" update="i">Mtv Dance</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Much Music" site_id="CL/spa_lgi-cl-prod-master:69035040" update="i">Much Music</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="VH1" site_id="CL/spa_lgi-cl-prod-master:69027442" update="i">VH1</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="VH1 MegaHits" site_id="CL/spa_lgi-cl-prod-master:302050887" update="i">VH1 MegaHits</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Htv" site_id="CL/spa_lgi-cl-prod-master:69047859" update="i">Htv</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Golf Channel HD" site_id="CL/spa_lgi-cl-prod-master:69046353" update="i">Golf Channel HD</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="América" site_id="CL/spa_lgi-cl-prod-master:69047716" update="i">América</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Deutsche Welle" site_id="CL/spa_lgi-cl-prod-master:69044848" update="i">Deutsche Welle</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TV5 Francia" site_id="CL/spa_lgi-cl-prod-master:6114777484" update="i">TV5 Francia</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="RAI" site_id="CL/spa_lgi-cl-prod-master:69047751" update="i">RAI</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="CCTV4 China" site_id="CL/spa_lgi-cl-prod-master:69023911" update="i">CCTV4 China</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="TV Perú" site_id="CL/spa_lgi-cl-prod-master:69048324" update="i">TV Perú</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Caracol" site_id="CL/spa_lgi-cl-prod-master:69023927" update="i">Caracol</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Globo Internacional" site_id="CL/spa_lgi-cl-prod-master:69046797" update="i">Globo Internacional</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="CNN Español" site_id="CL/spa_lgi-cl-prod-master:69034697" update="i">CNN Español</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="CNN Internacional" site_id="CL/spa_lgi-cl-prod-master:69032483" update="i">CNN Internacional</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="BBC World" site_id="CL/spa_lgi-cl-prod-master:69043946" update="i">BBC World</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Bloomberg" site_id="CL/spa_lgi-cl-prod-master:69047609" update="i">Bloomberg</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="VOA" site_id="CL/spa_lgi-cl-prod-master:69047115" update="i">VOA</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Venus" site_id="CL/spa_lgi-cl-prod-master:69047766" update="i">Venus</channel>
+
+<channel site="horizon_latino.tv.EK" xmltv_id="Sextreme" site_id="CL/spa_lgi-cl-prod-master:896327375" update="i">Sextreme</channel>
+
+</channels>
+
+</site>
