@@ -22,3 +22,5 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #EXTINF:-1 channel-id="TNT Sports" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="8" tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" group-title="Deportes", TNT Sports
 https://edge-live17-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
+#EXTINF:-1 channel-id="Nick" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="9" tvg-logo="https://i.ibb.co/9wf6FXv/ar-fox-sports-3-m.png" group-title="Infantiles", Nick
+https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
