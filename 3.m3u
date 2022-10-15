@@ -1,0 +1,14 @@
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids", Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids", Directv Sports
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids",Fox Sports
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Kids",ESPN
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
