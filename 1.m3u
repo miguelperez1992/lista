@@ -1,0 +1,11 @@
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://i.pinimg.com/originals/e9/ef/1f/e9ef1f221c1bdd270c431cacbb0d80a1.jpg" group-title="Kids",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2022/05/cartoonito_logo_freelogovectors.net_.png" group-title="Kids", Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="http://www.mercadonegro.pe/wp-content/uploads/2018/03/Isotipo-directv.jpg" group-title="Kids", Directv Sports
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="Kids", TLC
+http://todoen1.xyz:8080/TV/XYE8UjLP3abf/68148
